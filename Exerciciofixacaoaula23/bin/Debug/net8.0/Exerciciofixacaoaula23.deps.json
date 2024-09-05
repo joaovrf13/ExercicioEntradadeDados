@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exerciciofixacaoaula23/1.0.0": {
+        "runtime": {
+          "Exerciciofixacaoaula23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exerciciofixacaoaula23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
